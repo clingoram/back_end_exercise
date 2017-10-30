@@ -21,7 +21,7 @@
 
 			?>
 			<input type="text" name="name" placeholder="Name"><br>
-			<input type="text" name="pwd" placeholder="pwd">
+			<input type="password" name="pwd" placeholder="pwd">
 			<input type="submit" name="send">
 			<?php 
 			if($_SESSION["thehost"]["name"]!=Null){ ?>
