@@ -10,7 +10,4 @@
 <ul>重點:
 <li>知道怎麼下 SQL 語法從資料庫裡面存取資料</li>
 </ul>
-
-<h2>實作簡單留言板</h2>
-一個表單可以發文，然後有頁面會顯示出來現在有哪些留言。留言存到 DB 裡面去。
 <img src='http://g.recordit.co/vhLOEwNctP.gif'>
