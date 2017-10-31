@@ -1,0 +1,108 @@
+html,
+body{
+    height: 100%;
+    padding: 0;
+    margin:0;
+}
+body {
+    background: #fff;
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color:#000;
+}
+a:hover{
+    color: pink;
+}
+main {
+    background: #fff;
+    height: 100%;
+}
+/*log.php*/
+#show{
+    background-color: #fff;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    position: absolute;
+    top:20px;
+    left: 35%;
+
+}
+#confirm{
+    position: relative;
+    left: 20px;
+    display: block;
+}
+input{
+    border:1px solid #eee;
+    box-shadow: 2px 2px 2px #000;
+    height: 20px;
+    width: 340px;
+    margin:20px auto;
+    padding: 15px;
+}
+input[type='submit']{
+    width: 180px;
+    border:none;
+    background: #39C;
+    box-shadow: 2px 2px 2px #679;
+}
+/*user/index.php*/
+main{
+    background: #fff;
+    height: 100%;
+}
+header{
+    padding: 12px;
+}
+header .log{
+    float: right;
+    padding: 5px;
+}
+#postit{
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+/*show messages*/
+#result{
+    position: relative;
+    top: 20px;
+    color: #000;
+    padding-bottom: 120px;
+}
+.item {
+    width: 90%;
+    min-height: 100px;
+    height: auto;
+    overflow: auto;
+    left: 18px;
+    margin: 20px auto;
+    padding: 2px;
+    display: block;
+    position: relative;
+    top: 20px;
+    border-bottom: 2px solid #000;
+}
+.item:hover {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/*post time*/
+.time {
+    font-size: 14px;
+    float: right;
+    
+}
+
+/* post message*/
+.message_show {
+    width: 750px;
+    display: block;
+    position:relative;
+    font-size: 18px;
+
+}
