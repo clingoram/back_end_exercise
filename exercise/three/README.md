@@ -14,5 +14,5 @@
 在log.php中，利用jQuery的fadeIn效果，點擊login 或sign up button，就會有fadein效果<br>
 加入會員:<br>
 <img src='http://g.recordit.co/6bIrfcA6GP.gif'>
-發表留言:<br>
+發表留言並刪除:<br>
 <img src='http://g.recordit.co/D5yY1UE0Is.gif'>
